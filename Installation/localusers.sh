@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# By: JOR
+# Date: 22MAR25
+# Function: Create local users with sudo, all servers
+# Script: localusers.sh
+
 create_user() {
     username=$1
     password=$2
