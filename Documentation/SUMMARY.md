@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Server Minimum](server-minimum.md)
-* [Hyper-V](hyper-v.md)
+* [RDP](rdp.md)
 * [Observium](observium.md)
 * [SSH](ssh/README.md)
   * [Ciphers](ssh/ciphers.md)
