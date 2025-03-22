@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# By: David Lafferty
+# Date: 10JAN25
+# Function: Set up LLDP
+# Script: localusers.sh
+
 # Define ANSI colour codes
 BLACK='\e[30m'
 RED='\e[31m'
