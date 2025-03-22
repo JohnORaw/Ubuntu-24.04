@@ -2,6 +2,5 @@
 
 * [Introduction](README.md)
 * [Server Minimum](server-minimum.md)
-* [PXE Boot](pxe-boot.md)
-* [Remote Desktop](remote-desktop.md)
-* [RDP](hyper-v.md)
+* [Remote Desktop](remote-desktop/README.md)
+  * [Hyper-V](remote-desktop/hyper-v.md)

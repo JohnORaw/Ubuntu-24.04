@@ -1,6 +1,4 @@
-# RDP
-
-## Hyper-V
+# Hyper-V
 
 ### Larger screen
 
