@@ -4,7 +4,7 @@
 
 ### Larger screen
 
-Sometime the only solution is via Power Sheel on the host.
+Sometime the only solution is via Power Shell on the host.
 
 ```
 set-vmvideo -vmname ub2204-desktop -horizontalresolution:1920  -verticalresolution:1080 -resolutiontype single
