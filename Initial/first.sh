@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # By: JOR
-# Date: 23Jan25
+# Date: 22MAR25
 # Function: First tasks, all servers
 # Script: first.sh
 
