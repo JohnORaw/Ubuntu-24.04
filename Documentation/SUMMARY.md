@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Hyper-V](hyper-v.md)
 * [Server Minimum](server-minimum.md)
+* [Hyper-V](hyper-v.md)
 * [Observium](observium.md)
 * [SSH](ssh/README.md)
   * [Ciphers](ssh/ciphers.md)

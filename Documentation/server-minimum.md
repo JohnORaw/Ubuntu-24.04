@@ -1,5 +1,7 @@
 # Server Minimum
 
+Any server being built as a VM should start with a minimum configuration. Only install what is needed for that use-case.
+
 Initially
 
 ```
