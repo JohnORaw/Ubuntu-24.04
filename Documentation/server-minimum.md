@@ -20,7 +20,9 @@ sudo apt get openssh-server -y
 
 The configuration file is at **/etc/ssh/sshd\_config**
 
-Edit the line which defines the port and remove the #, for me
+Edit the line which defines the port and remove the #, for port 22
+
+Also remove the comment from the banner line, and create a warning banner at /etc/issue.net
 
 ```
 # This is the sshd server system-wide configuration file.  See
@@ -39,6 +41,8 @@ Port 22
 #AddressFamily any
 #ListenAddress 0.0.0.0
 #ListenAddress ::
+
+Banner /etc/issue.net
 ```
 
 Edit the hostname
