@@ -43,6 +43,6 @@ echo -e "${CYAN}>>>${GREEN} LLDP has been configured successfully.${CLR_RESET}"
 
 
 # PI Commands
-echo -e "${CYAN}>>>${WHITE} If you're on a Raspberry Pi and want to identify the port you're connected to, use the following commands:${CLR_RESET}"
+echo -e "${CYAN}>>>${WHITE} If you're on a RPi or Ubuntu server and want to identify the port you're connected to, use the following commands:${CLR_RESET}"
 echo -e "${CYAN}>>>${WHITE} --- ${CYAN}sudo lldpcli show neighbors${CLR_RESET}"
 echo -e "${CYAN}>>>${WHITE} --- ${CYAN}sudo lldpcli show neighbors${CLR_RESET}"
