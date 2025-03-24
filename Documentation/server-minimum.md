@@ -22,7 +22,9 @@ The configuration file is at **/etc/ssh/sshd\_config**
 
 Edit the line which defines the port and remove the #, for port 22
 
-Also remove the comment from the banner line, and create a warning banner at /etc/issue.net
+Also remove the comment from the banner line, and create a warning banner at **/etc/issue.net**
+
+Note that this did not work for me until after a reboot.
 
 ```
 # This is the sshd server system-wide configuration file.  See
