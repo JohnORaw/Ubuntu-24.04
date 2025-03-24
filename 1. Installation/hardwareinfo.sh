@@ -11,7 +11,7 @@ mkdir -p ~/Benchmark
 host=$(hostname)
 
 # defining the output file name
-output_file=~/systeminformation/${host}_systeminfo.txt
+output_file=~/Benchmark/${host}_systeminfo.txt
 
 # get the the hostname
 echo -e "\n" >> $output_file
